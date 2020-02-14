@@ -12,7 +12,7 @@ Press Play!
 
 ## how to contribute
 
-Blah
+Please fork me and issue pull request for review
 
 
 Copyright 2020 Erik
