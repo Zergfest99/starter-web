@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Press Play!
+
 ## how to contribute
 
 Blah
