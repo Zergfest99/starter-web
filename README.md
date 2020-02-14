@@ -13,3 +13,6 @@ Press Play!
 ## how to contribute
 
 Blah
+
+
+Copyright 2020 Erik
