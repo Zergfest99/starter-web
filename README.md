@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Press Play!
+Press Play! I love this sentence
 
 ## how to contribute
 
